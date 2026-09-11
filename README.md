@@ -20,11 +20,13 @@ Pilot futuristic jetpack-equipped racers through a neon megacity, navigate obsta
 
 > Screenshots from the playable prototype.
 
-![AEROSTRIKE Gameplay](screenshots/gameplay.png)
+![AEROSTRIKE Startpage](aero1.png)
 
-![AEROSTRIKE Combat](screenshots/combat.png)
+![AEROSTRIKE Gameplay](aero2.png)
 
-![Neon Behemoth Boss Fight](screenshots/boss.png)
+![AEROSTRIKE Combat](combat.jpeg)
+
+![Neon Behemoth Boss Fight](bossfight.jpeg)
 
 ---
 
