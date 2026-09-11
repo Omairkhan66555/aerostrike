@@ -12,7 +12,7 @@ Pilot futuristic jetpack-equipped racers through a neon megacity, navigate obsta
 
 ## 🎬 Gameplay Demo
 
-> **Gameplay Video:** [Watch AEROSTRIKE Gameplay]([https://youtu.be/XucU4tUBR0k?si=pLKsVJzpR2QOkBkU])
+> **Gameplay Video:** [Watch AEROSTRIKE Gameplay](https://youtu.be/XucU4tUBR0k?si=pLKsVJzpR2QOkBkU)
 
 ---
 
