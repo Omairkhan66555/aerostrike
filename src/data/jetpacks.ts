@@ -1,0 +1,68 @@
+import { JetpackData } from '../types/jetpack';
+
+export const JETPACKS: JetpackData[] = [
+  {
+    id: 'vector',
+    name: 'VECTOR',
+    type: 'Balanced Thruster',
+    stats: {
+      thrust: 7,
+      boostPower: 7,
+      boostDuration: 7,
+      energyEfficiency: 8,
+      stability: 7,
+    },
+    description: 'Standard military-grade dual thruster array with consistent power output and clean handling.',
+    flameColor: 0x00f0ff,
+    trailColor: 0x0284c7,
+    exhaustType: 'dual_vector',
+  },
+  {
+    id: 'overdrive',
+    name: 'OVERDRIVE',
+    type: 'High-Thrust Engine',
+    stats: {
+      thrust: 10,
+      boostPower: 10,
+      boostDuration: 6,
+      energyEfficiency: 5,
+      stability: 4,
+    },
+    description: 'Overclocked turbine array delivering maximum acceleration and explosive thrust at the expense of stability.',
+    flameColor: 0xff5500,
+    trailColor: 0xe11d48,
+    exhaustType: 'twin_overdrive',
+  },
+  {
+    id: 'titan_core',
+    name: 'TITAN CORE',
+    type: 'Heavy Plasma Unit',
+    stats: {
+      thrust: 8,
+      boostPower: 6,
+      boostDuration: 9,
+      energyEfficiency: 9,
+      stability: 10,
+    },
+    description: 'High-mass fusion reactor core. Sustained heavy thrust with supreme resistance against impact turbulence.',
+    flameColor: 0x22c55e,
+    trailColor: 0x15803d,
+    exhaustType: 'heavy_fusion',
+  },
+  {
+    id: 'overdrive_mk2',
+    name: 'OVERDRIVE MK-II',
+    type: 'Experimental Fusion Unit',
+    stats: {
+      thrust: 10,
+      boostPower: 9,
+      boostDuration: 8,
+      energyEfficiency: 7,
+      stability: 8,
+    },
+    description: 'Advanced prototype jetpack awarded for defeating the Neon Behemoth. Combines extreme thrust with augmented reactor stability.',
+    flameColor: 0x00ffff,
+    trailColor: 0x9333ea,
+    exhaustType: 'twin_overdrive',
+  },
+];
